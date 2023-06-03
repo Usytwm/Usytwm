@@ -16,4 +16,4 @@
 ## Contact me
 - Email: gisameht@gmail.com 📧
 - [Twitter](https://twitter.com/BrianInclan) 🐦
-- [LinkedIn](https://www.linkedin.com/in/brian-inclan-7a02531a5)💼
+- [LinkedIn](https://www.linkedin.com/in/brian-inclan-7a02531a5/)💼
