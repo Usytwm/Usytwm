@@ -1,4 +1,4 @@
-# Hello, I’m Brian Ameht Inclan Quesada 👋
+# Hi, I’m Brian Ameht Inclan Quesada 👋
 
 
 ## About me
