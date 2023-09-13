@@ -6,7 +6,6 @@
 - 🎓 I study Computer Science at the University of Havana 💻
 - ⚽ When I have free time, I like to play soccer or program 🖥️
 - 🔭 I’m currently working on improving my skills in artificial intelligence
-- 🌱 I’m currently learning Haskell and other programming languages
 - 👯 I’m looking to collaborate on open source projects related to AI or data science
 - 💬 Ask me about anything related to computer science, programming or soccer
 - 📫 How to reach me: gisameht@gmail.com or my social media accounts
