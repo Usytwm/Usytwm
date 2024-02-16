@@ -2,16 +2,15 @@
 
 
 ## About me
-- 🏠 I live in Havana, Cuba 🇨🇺
-- 🎓 I study Computer Science at the University of Havana 💻
-- ⚽ When I have free time, I like to play soccer or program 🖥️
-- 🔭 I’m currently working on improving my skills in artificial intelligence
-- 👯 I’m looking to collaborate on open source projects related to AI or data science
-- 💬 Ask me about anything related to computer science, programming or soccer
-- 📫 How to reach me: gisameht@gmail.com or my social media accounts
+- 🏠 I live in Havana, Cuba
+- 🎓 I am a Computer Science student at the University of Havana 💻
+
+## languages
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,js,ts)](https://skillicons.dev)
 
 ## My skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,dotnet,git,github,py,hs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,mysql,nodejs,angular,react,graphql,apollo,postman,bootstrap,html,css,git,github&perline=6)](https://skillicons.dev)
+
 ## Contact me
 - Email: gisameht@gmail.com 📧
 - [Twitter](https://twitter.com/BrianInclan) 🐦
