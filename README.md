@@ -4,7 +4,7 @@
 ## About me
 
 - 🏠 I live in Havana, Cuba
-- 🎓 I am a Computer Science student at the University of Havana 💻
+- 🎓 **B.Sc. in Computer Science** — University of Havana
 
 ---
 
@@ -35,6 +35,7 @@
 
 ## 📬 Contact me
 
-- Email: gisameht@gmail.com 📧
-- [X](https://twitter.com/BrianInclan) 🐦
-- [LinkedIn](https://www.linkedin.com/in/brian-inclan-7a02531a5/)💼
+- 📧 Email: gisameht@gmail.com
+- [𝕏](https://x.com/BrianInclan)
+- 💼 [LinkedIn](https://www.linkedin.com/in/brian-inclán-quesada-bb3a85320)
+
